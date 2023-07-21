@@ -19,6 +19,7 @@ Plug 'https://github.com/williamboman/mason-lspconfig.nvim' --Mason LSP Config
 Plug 'https://github.com/jose-elias-alvarez/null-ls.nvim' --Linter
 Plug 'https://github.com/hrsh7th/nvim-cmp' --Auto complete
 Plug 'https://github.com/hrsh7th/cmp-nvim-lsp' --Auto Complete LSP
+Plug 'nvim-lua/plenary.nvim'
 
 vim.call ('plug#end')
 
